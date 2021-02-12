@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tabexample</string>
+    <string name="hint_module_action_plan_search">Search by Plan, Location, Creator</string>
+    <string name="my_audits">My Audits</string>
+    <string name="filters">Filters</string>
+    <string name="apply">Apply</string>
+    <string name="clear_all_filter">Clear All Filter</string>
+    <string name="no_data_available">No Data Available</string>
+    <string name="clear">Clear</string>
+    <string name="audit">Audit</string>
+    <string name="txt_search_hint">Search %1$s</string>
+
+</resources>

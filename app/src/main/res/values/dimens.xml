@@ -1,0 +1,170 @@
+<resources>
+     <!--Dialog theme activity height and width-->
+    <integer name="ratio_width">100</integer>
+    <integer name="ratio_height">100</integer>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_horizontal_padding">16dp</dimen>
+    <dimen name="layout_horizontal_padding">16dp</dimen>
+    <dimen name="layout_vertical_padding">11dp</dimen>
+
+    <!--Widget text size and paddings-->
+    <dimen name="edittext_padding">5sp</dimen>
+    <dimen name="login_edittext_size">18sp</dimen>
+    <dimen name="submit_button_text_size">18sp</dimen>
+    <dimen name="actionBarTitleSize">18sp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="widget_pedding_top">10dp</dimen>
+    <dimen name="dp5">5dp</dimen>
+    <dimen name="dp10">10dp</dimen>
+
+    <!--Mobile text size-->
+    <dimen name="text_size_content">14sp</dimen>
+    <dimen name="menu_text_size">16sp</dimen>
+
+
+    <!-- Form widgets-->
+    <dimen name="question_text_size">14sp</dimen>
+    <dimen name="answer_text_size">14sp</dimen>
+    <dimen name="child_question_text_size">13sp</dimen>
+    <dimen name="widget_time_button_height">28dp</dimen>
+    <dimen name="derived_answer_text_size">14sp</dimen>
+    <dimen name="derived_answer_hint_size">11sp</dimen>
+    <dimen name="tooltip_submitted_by_text_size">10sp</dimen>
+    <dimen name="tooltip_employee_name">16sp</dimen>
+    <dimen name="tooltip_employee_name_title">12sp</dimen>
+    <dimen name="question_na_overlay_text_size">16sp</dimen>
+    <dimen name="section_header_text_size">14sp</dimen>
+    <dimen name="top_header_text_size">14sp</dimen>
+    <dimen name="search_text_size">14sp</dimen>
+
+    <!--Signature screen-->
+    <dimen name="signature_height">250dp</dimen>
+
+
+    <!-- answer padding and margin-->
+    <dimen name="form_ans_widget_padding_lr">16dp</dimen>
+    <dimen name="form_ans_widget_padding_tb">7dp</dimen>
+    <dimen name="form_ans_radio_button_left_padding_tb">5dp</dimen>
+    <dimen name="form_ans_lay_right_margin">70dp</dimen>
+    <dimen name="form_ans_widget_btn_minimum_width">60dp</dimen>
+
+
+
+    <!-- Question padding and margin-->
+    <dimen name="form_que_widget_padding_lr">16dp</dimen>
+    <dimen name="form_que_widget_padding_tb">10dp</dimen>
+    <dimen name="form_questions_top_margin">8dp</dimen>
+    <dimen name="form_child_question_left_margin">10dp</dimen>
+    <dimen name="form_sub_questions_top_margin">4dp</dimen>
+
+    <!-- widget paddings and margin-->
+    <dimen name="widget_padding_lr">10dp</dimen>
+    <dimen name="widget_padding_header_left">11dp</dimen>
+    <dimen name="widget_header_option_padding">8dp</dimen>
+    <dimen name="form_widget_margin_tb_for_vertical">3dp</dimen>
+    <dimen name="form_widget_margin_tb">10dp</dimen>
+    <dimen name="form_widget_margin_lr">6dp</dimen>
+
+
+    <!-- RIGHT PANEL -->
+    <dimen name="form_drawer_text_size">16sp</dimen>
+    <dimen name="right_panel_text_size">16sp</dimen>
+
+    <!-- GSD 2.0 -->
+    <dimen name="GSD_text_size">8sp</dimen>
+    <dimen name="GSD_col_avg_text_size">10sp</dimen>
+    <dimen name="GSD_col_avg_text_padding">3dp</dimen>
+    <dimen name="GSD_timer_width">77dp</dimen>
+    <dimen name="GSD_timer_width1">78dp</dimen>
+    <dimen name="GSD_padding">2dp</dimen>
+    <dimen name="GSD_row_height">38dp</dimen>
+    <dimen name="GSD_combined_row_height">70dp</dimen>
+    <dimen name="GSD_title_width">90dp</dimen>
+    <dimen name="GSD_product_text_size">12sp</dimen>
+
+    <!-- GSD root cause -->
+    <dimen name="GSD_root_cause_text_size">10sp</dimen>
+    <dimen name="GSD_minus_plus_text_size">22sp</dimen>
+    <dimen name="GSD_counter_text_size">18sp</dimen>
+    <dimen name="GSD_counter_circle_size">38dp</dimen>
+    <dimen name="GSD_counter_circle_padding">20dp</dimen>
+
+    <!--admin login-->
+    <dimen name="ADMIN_KEY_SIZE">52dp</dimen>
+    <dimen name="ADMIN_KEY_PADDING">8dp</dimen>
+    <dimen name="ADMIN_KEY_TEXT_SIZE">17sp</dimen>
+    <dimen name="ADMIN_TITLE">12sp</dimen>
+    <dimen name="ADMIN_LOGIN_FIELD_PADDING">10dp</dimen>
+    <dimen name="ADMIN_TEXT_SIZE">14sp</dimen>
+    <dimen name="IMAGE_THUMBNAIL_WIDTH">110sp</dimen>
+
+    <!--for name initials in ImageView-->
+    <!--Profile Image size -->
+    <dimen name="user_profile">36dp</dimen>
+    <dimen name="inner_circle">20dp</dimen>
+
+    <!--report screen-->
+    <dimen name="report_title_size">16sp</dimen>
+    <dimen name="report_other_title_size">13sp</dimen>
+    <dimen name="report_action_btn_title">14sp</dimen>
+    <dimen name="report_view_audit_info_label_size">10sp</dimen>
+    <dimen name="action_plan_desc_small">12sp</dimen>
+
+
+    <dimen name="pb_circle_height">37dp</dimen>
+    <dimen name="comment_image_attachment_height">220dp</dimen>
+
+
+
+    <!--Summary signature-->
+    <dimen name="summary_signature_height">160dp</dimen>
+    <dimen name="summary_signature_width">220dp</dimen>
+
+    <!--tooltip-->
+    <dimen name="tooltip_overlay_offset">10dp</dimen>
+    <dimen name="tooltip_margin">10dp</dimen>
+    <dimen name="tooltip_padding">8dp</dimen>
+    <dimen name="tooltip_arrow_width">30dp</dimen>
+    <dimen name="tooltip_arrow_height">15dp</dimen>
+    <dimen name="tooltip_animation_padding">4dp</dimen>
+    <dimen name="tooltip_profile_right_padding">90px</dimen>
+    <dimen name="tooltip_profile_padding">10px</dimen>
+    <dimen name="tooltip_max_width">400dp</dimen>
+
+    <dimen name="dp_5">5dp</dimen>
+    <dimen name="dp_3">3dp</dimen>
+    <dimen name="dp_4">4dp</dimen>
+    <dimen name="dp_7">7dp</dimen>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="dp_70">70dp</dimen>
+    <dimen name="sp_20">20sp</dimen>
+
+    <!--number and Thermowork popup-->
+    <dimen name="cell_width">100dp</dimen>
+    <dimen name="popup_width">302dp</dimen>
+    <dimen name="cell_height">65dp</dimen>
+    <dimen name="cell_padding">13dp</dimen>
+    <dimen name="cell_text_size">16sp</dimen>
+    <dimen name="edt_reading_text_size">16sp</dimen>
+    <dimen name="label_reading_text_size">14sp</dimen>
+    <dimen name="label_range_text_size">12sp</dimen>
+    <dimen name="label_readings">12sp</dimen>
+    <dimen name="ic_cross_width">24dp</dimen>
+    <dimen name="btn_done_cell_height">75dp</dimen>
+
+    <!--input number cell-->
+    <dimen name="cell_readings_max_width">60dp</dimen>
+    <dimen name="cell_readings_width">120dp</dimen>
+    <dimen name="question_list_reading_type_label_size">10dp</dimen>
+    <dimen name="question_list_temp_dialog_label_size">13sp</dimen>
+    <dimen name="question_list_input_temp_size">24sp</dimen>
+
+    <dimen name="question_list_device_temp_dialog_ring_size">140dp</dimen>
+    <dimen name="question_list_device_temp_dialog_ring_radius">70dp</dimen>
+    <dimen name="question_list_device_scanned_height">300dp</dimen>
+
+</resources>
